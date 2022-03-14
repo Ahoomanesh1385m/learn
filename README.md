@@ -1,1 +1,1 @@
-# learn
+[{"video":"https://hajifirouz9.cdn.asset.aparat.com/aparat-video/0908056783d7e8f58ff08cf0841f07f843443598-720p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImM0MjQxNTExNWQyNWQ2NTE3N2RkYjdjNDRkNTkyOTJlIiwiZXhwIjoxNjQ3Mjk2NjUyLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.ajTHp_kmxaf7AVwe8D_5Q32ebNkMXENwlL5oReAAJwA","txt":"آموزش تغییر رنگ لباس و چیز دیگه به این روش","img":"https://s6.uupload.ir/files/icon_(1)_7na.png"}]
